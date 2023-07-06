@@ -22,5 +22,17 @@ export default createGlobalStyle`
     font-size: 1rem;
     color: var(--dark);
   }
-
+ .chat{
+ width: 35vh;
+ margin: 0 auto;
+ }
+.logoMenu{
+  width: 30vh;
+  margin: 0 auto;
+  margin-top: 3vw;
+}
+#hands{
+  position: relative;
+  transform: translateX(30px) translateY(100px);
+}
 `
